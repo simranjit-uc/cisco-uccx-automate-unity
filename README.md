@@ -19,4 +19,4 @@ You can add the script to the UCCX's script repository and associate with with t
 ## More details
 For more details on what this code means, you can check out the following 2 part series:
 - Part 1 : https://learnuccollab.com/2023/08/05/cisco-uccx-with-rest-api-integration-unlocking-powerful-automation/
-- Part 2 : https://learnuccollab.com/2023/05/28/integrate-cisco-cucm-security-vulnerability-workflow-with-service-now/
+- Part 2 : https://learnuccollab.com/2023/08/20/automate-use-cases-with-cisco-uccx-rest-api-and-unity-connection/
