@@ -1,5 +1,5 @@
 # Using UCCX REST API to automate Cisco Unity VM pin reset workflow
-This script will integrate Cisco UCCX with Cisco Unity Connection over REST API. The UCCX will offer an IVR based voice setup to the callers where they can provide their extension through DTMF inputs while the script is capturing that data and interacting with Unity Connection over REST APIs in real time. 
+This script will integrate Cisco UCCX with Cisco Unity Connection over REST API. The UCCX will offer an IVR based voice setup to the callers where they can provide their extension through DTMF inputs while the script is capturing that data and interacting with Unity Connection over REST APIs in real time. P.S - Please do your own due diligence while copy-pasting code directly in your production environment.
 
 ## Prerequisites/Instructions
 - Cisco UCCX.
